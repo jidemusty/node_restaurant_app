@@ -26,5 +26,6 @@ That will populate 16 stores with 3 authors and 41 reviews. The logins for the a
 
 
 mongodb://localhost:27017/learnnode
+mongodb://127.0.0.1:27017/learnnode
 mongodb://learnnode:learnnode@ds145302.mlab.com:45302/learnnode
 MongoError: getaddrinfo ENOENT localhost:27017
